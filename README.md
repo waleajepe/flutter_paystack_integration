@@ -1,4 +1,4 @@
-# novaji
+# Flutter Paystack Integration with Firebase
 
 A new Flutter project.
 
