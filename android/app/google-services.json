@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441322311799",
+    "project_id": "novaji-a6cbd",
+    "storage_bucket": "novaji-a6cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441322311799:android:655ae1763ca196eadab672",
+        "android_client_info": {
+          "package_name": "com.example.novaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441322311799-colmov3sf53mps9n6klnqiu52ajkddcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUtQ1rRjrBoelYBjQ4aB87wzE-cRpUM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441322311799-colmov3sf53mps9n6klnqiu52ajkddcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
